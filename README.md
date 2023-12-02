@@ -1,10 +1,10 @@
-#FitBody: TCC - Faculdade Unicesumar
+# FitBody: TCC - Faculdade Unicesumar
 
-##Bem-vindo ao repositório do FitBody, meu Trabalho de Conclusão de Curso desenvolvido durante minha graduação na Faculdade Unicesumar.
+## Bem-vindo ao repositório do FitBody, meu Trabalho de Conclusão de Curso desenvolvido durante minha graduação na Faculdade Unicesumar.
 
-###O presente trabalho, intitulado "FitBody", representa o resultado do esforço e dedicação ao longo do curso de Engenharia de Software na Faculdade Unicesumar.
+### O presente trabalho, intitulado "FitBody", representa o resultado do esforço e dedicação ao longo do curso de Engenharia de Software na Faculdade Unicesumar.
 
-##Como testar o projeto:
+## Como testar o projeto:
 
 Pré-requisitos
 Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
@@ -13,7 +13,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 -npm (Node Package Manager)
 -Expo CLI (pode ser instalado globalmente usando npm install -g expo-cli)
 
-###Passos para Execução:
+### Passos para Execução:
 
 Clone o Repositório:
 ```
