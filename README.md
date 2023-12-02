@@ -45,4 +45,4 @@ O aplicativo será carregado no seu dispositivo, e você poderá interagir com e
 1. Clone o repositório: `git clone https://github.com/mateus0h/tcc.git`
 2. Acesse o diretório: `cd tcc/api`
 3. Instale as dependências: `npm install`
-4. `npm run start`
+4. Rode no terminal `npm run start`
