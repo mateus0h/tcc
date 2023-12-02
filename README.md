@@ -6,19 +6,20 @@
 
 ## Como testar o projeto:
 
-Pré-requisitos
+### Pré-requisitos para o Aplicativo:
+
 Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 
--Node.js
--npm (Node Package Manager)
--Expo CLI (pode ser instalado globalmente usando npm install -g expo-cli)
+- Node.js
+- npm (Node Package Manager)
+- Expo CLI (pode ser instalado globalmente usando npm install -g expo-cli)
 
 ### Passos para Execução:
 
 Clone o Repositório:
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/mateus0h/tcc.git
+cd tcc/aplicativo
 ```
 
 Instale as Dependências:
@@ -33,3 +34,15 @@ Leia o Código QR:
 Abra o aplicativo Expo Go no seu dispositivo móvel.
 Escaneie o código QR exibido no terminal ou na página Expo DevTools aberta em seu navegador.
 O aplicativo será carregado no seu dispositivo, e você poderá interagir com ele em tempo real.
+
+### Pré-requisitos para a api:
+
+- Node.js
+- npm (gerenciador de pacotes do Node.js)
+
+## Instalação
+
+1. Clone o repositório: `git clone https://github.com/mateus0h/tcc.git`
+2. Acesse o diretório: `cd tcc/api`
+3. Instale as dependências: `npm install`
+4. `npm run start`
